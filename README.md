@@ -1,4 +1,4 @@
-# Document Chat with LLaVA
+# Talk with PDF
 
 A local, multi-modal LLM-powered chat application that processes PDFs and Word files, answers questions about their content, and generates Mermaid syntax for diagrams—all running on your machine with no external server required. Built with Streamlit, LLaVA 7B (via Ollama), and Python, this project was developed and tested on an M3 Mac with 16GB RAM.
 
