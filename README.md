@@ -2,7 +2,8 @@
 
 A local, multi-modal LLM-powered chat application that processes PDFs and Word files, answers questions about their content, and generates Mermaid syntax for diagrams—all running on your machine with no external server required. Built with Streamlit, LLaVA 7B (via Ollama), and Python, this project was developed and tested on an M3 Mac with 16GB RAM.
 
-![App Screenshot](screenshots/app_screenshot.png)  
+<img width="3008" alt="Screenshot 2025-03-04 at 5 29 47 PM" src="https://github.com/user-attachments/assets/8ea0322a-3d4a-4007-9af9-aedf3c3e407c" />
+
 *Main interface showing file upload and chat with question/answer styling.*
 
 ## Features
