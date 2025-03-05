@@ -36,7 +36,5 @@ This project uses LLaVA 7B (Large Language and Vision Assistant), a multi-modal 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/document-chat-llava.git
-cd document-chat-llava
-
-### 2. Set Up Virtual Environment
+git clone https://github.com/Baki998899/AI_Chat.git
+cd AI_Chat
