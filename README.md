@@ -53,8 +53,8 @@ pip install pymupdf pillow pytesseract pdf2image ollama streamlit python-docx
 ```bash
 brew install tesseract poppler
 ```
-### 5. Install Ollama and LLaVA 7B
-### 6. Download from ollama.com, then:
+### 5. [Download and Install Ollama](ollama.com) and LLaVA 7B
+### 6. After Installing Ollama, then in terminal run:
 ```bash
 ollama pull llava:7b
 ```
