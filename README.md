@@ -38,3 +38,23 @@ This project uses LLaVA 7B (Large Language and Vision Assistant), a multi-modal 
 ```bash
 git clone https://github.com/Baki998899/AI_Chat.git
 cd AI_Chat
+```
+### 2. Virtual environment
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+### 3. Install libraries
+```bash
+pip install --upgrade pip
+pip install pymupdf pillow pytesseract pdf2image ollama streamlit python-docx
+```
+### 4. Homebrew dependencies
+```bash
+brew install tesseract poppler
+```
+### 5. Install Ollama and LLaVA 7B
+### 6. Download from ollama.com, then:
+```bash
+ollama pull llava:7b
+```
